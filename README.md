@@ -1,3 +1,3 @@
 # BizCompanyNoBootstrap
 BizCompany Website done with HTML and CSS
-Assignment 1
+Assignment no.1
